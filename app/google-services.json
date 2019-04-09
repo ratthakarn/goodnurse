@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "838875112113",
+    "firebase_url": "https://mytutorial-ca80e.firebaseio.com",
+    "project_id": "mytutorial-ca80e",
+    "storage_bucket": "mytutorial-ca80e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:838875112113:android:cc54f1f1694583fb",
+        "android_client_info": {
+          "package_name": "masterung.th.in.androidthai.mytutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "838875112113-h4tdtab5ku6r9rk2446bgtpv3a5h6nhm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "masterung.th.in.androidthai.mytutorial",
+            "certificate_hash": "99f1de59cbbb9f0ab27aeb63c596235bc843b92a"
+          }
+        },
+        {
+          "client_id": "838875112113-pmssp8nhth2cqfep0k53ntakg8nkeojg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbWzSdx-82Bg-9V8pcu7OVU5rPN-MYzhQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "838875112113-pmssp8nhth2cqfep0k53ntakg8nkeojg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
